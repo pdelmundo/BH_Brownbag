@@ -7,6 +7,7 @@ namespace BH_Brownbag
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+			Console.ReadLine();
         }
     }
 }
