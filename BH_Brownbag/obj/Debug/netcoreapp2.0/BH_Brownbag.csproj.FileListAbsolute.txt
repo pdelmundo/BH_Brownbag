@@ -1,0 +1,11 @@
+D:\Projects\BH_Brownbag\BH_Brownbag\bin\Debug\netcoreapp2.0\BH_Brownbag.deps.json
+D:\Projects\BH_Brownbag\BH_Brownbag\bin\Debug\netcoreapp2.0\BH_Brownbag.runtimeconfig.json
+D:\Projects\BH_Brownbag\BH_Brownbag\bin\Debug\netcoreapp2.0\BH_Brownbag.runtimeconfig.dev.json
+D:\Projects\BH_Brownbag\BH_Brownbag\bin\Debug\netcoreapp2.0\BH_Brownbag.dll
+D:\Projects\BH_Brownbag\BH_Brownbag\bin\Debug\netcoreapp2.0\BH_Brownbag.pdb
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.csprojResolveAssemblyReference.cache
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.csproj.CoreCompileInputs.cache
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.AssemblyInfoInputs.cache
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.AssemblyInfo.cs
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.dll
+D:\Projects\BH_Brownbag\BH_Brownbag\obj\Debug\netcoreapp2.0\BH_Brownbag.pdb
